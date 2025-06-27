@@ -22,7 +22,7 @@
 - Pixel-perfect **Frontend Engineering** using **React**, **Next.js**, **Vue.js**
 - Deep experience with **multi-step onboarding workflows**, **banking modules**, and **enterprise UI systems**
 - Strong command of **TypeScript**, **Redux Toolkit**, **Tailwind CSS**, and **Formik**
-- Backend exposure in **Java (Quarkus)**, **Node.js**, **Express**, and **API orchestration via FSM**
+- Backend exposure in **Java**, **Node.js**, **Express**, and **API orchestration via FSM**
 - End-to-end experience across **CI/CD**, **Postman**, **SQL/NoSQL DBs**, **Linux**, and **Agile teams**
 
 ---
