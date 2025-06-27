@@ -5,7 +5,7 @@
 🚀 Ex-Easypaisa | Ex-Bank Al-Habib | Ex-TereSol | Fintech, Banking, Enterprise UI Expert
 
 ### 🔧 Skills
-React · Next.js · Vue.js · TypeScript · Redux Toolkit · Tailwind CSS · Java · Node.js
+React · Next.js · Vue.js · TypeScript · Redux Toolkit · Tailwind CSS · Java · Node.js · Express.js · Figma · Postman · Git · MySQL · NoSQL · PostgreSQL · Azure · CI/CD Pipelines · Agile-Methodologies · Linux(Ubuntu)
 
 ### 📂 Professional Projects
 Check out my real-world enterprise contributions:  
