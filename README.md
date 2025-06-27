@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Azka Abid
 
-<!--
-**azkaabid/azkaabid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend-Focused Full Stack Developer | 4+ Years Experience  
+📍 Based in Pakistan and UAE | Open to Remote & On-site  
+🚀 Ex-Easypaisa | Ex-Bank Al-Habib | Ex-TereSol | Fintech, Banking, Enterprise UI Expert
 
-Here are some ideas to get you started:
+### 🔧 Skills
+React · Next.js · Vue.js · TypeScript · Redux Toolkit · Tailwind CSS · Java · Node.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Professional Projects
+Check out my real-world enterprise contributions:  
+👉 [Professional Projects Showcase](https://github.com/azkaabid/professional-projects-showcase)
+
+### 📫 Contact
+Portfolio: [https://azkaabid.vercel.app/]  
+LinkedIn: [https://www.linkedin.com/in/azkaabid57/]  
+Email: [azkaabid57@gmail.com]
