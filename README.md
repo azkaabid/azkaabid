@@ -3,7 +3,7 @@
 <p align="center">
   <strong>Frontend-Focused Full Stack Developer</strong> with <strong>4+ years of experience</strong> building enterprise-grade platforms across <strong>banking, fintech, and SaaS</strong> domains.
   <br />
-  🚀 Ex-Easypaisa Digital Bank · Ex-Bank Al Habib · Ex-TereSol
+  🚀 Ex-Easypaisa Digital Bank (Telenor Microfinance Bank) · Ex-Bank Al Habib · Ex-TereSol
   <br />
   📍 Based in <strong>Pakistan & UAE</strong> | Open to <strong>Remote & Global Relocation</strong>
 </p>
