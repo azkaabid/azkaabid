@@ -12,7 +12,7 @@
   <a href="https://azkaabid.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-azkaabid.vercel.app-green?style=flat-square&logo=vercel" /></a>
   <a href="mailto:azkaabid57@gmail.com"><img src="https://img.shields.io/badge/Email-azkaabid57@gmail.com-red?style=flat-square&logo=gmail" /></a>
   <a href="https://linkedin.com/in/azkaabid57" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" /></a>
-  <img src="https://img.shields.io/badge/Based%20in-Pakistan%20and%20UAE-informational?style=flat-square" />
+  <img src="https://img.shields.io/badge/Based%20in-Pakistan-informational?style=flat-square" />
 </p>
 
 ---
