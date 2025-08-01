@@ -5,7 +5,7 @@
   <br />
   🚀 Ex-Easypaisa Digital Bank (Telenor Microfinance Bank) · Ex-Bank Al Habib · Ex-TereSol
   <br />
-  📍 Based in <strong>Pakistan & UAE</strong> | Open to <strong>Remote & Global Relocation</strong>
+  📍 Based in <strong>Pakistan</strong> | Open to <strong>Remote & Global Relocation</strong>
 </p>
 
 <p align="center">
